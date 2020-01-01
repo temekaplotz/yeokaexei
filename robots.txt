@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eeghaucha.1418.team/sitemap.xml
